@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(20, 208, 208);
+    h1 {
+        color: rgb(58, 58, 228);
+        margin-left: 20px;
+      }
+      footer {
+        color: rgb(255, 0, 0);
+        margin-left: 20px;
+      }
+      main {
+        color: rgb(81, 56, 181);
+        margin-left: 20px;
+      }
+      nav {
+        color: rgb(236, 111, 2);
+        margin-left: 20px;
+      }
+  }
+  
